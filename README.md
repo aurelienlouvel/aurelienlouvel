@@ -5,7 +5,7 @@
 Étudiant en développement interactif à GOBELINS Paris  
 **Recherche actuellement une alternance pour septembre 2023**
 
-(🌐) [Portfolio](http://aurelienlouvel.fr)
+(🌐) [PORTFOLIO](http://aurelienlouvel.fr)
 
 (🍱) [Bento.me](https://bento.me/aurelienlouvel)
 
