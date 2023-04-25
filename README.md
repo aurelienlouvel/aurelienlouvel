@@ -7,7 +7,7 @@
 
 (💻) [aurelienlouvel.fr](http://aurelienlouvel.fr)
 
-(🍱) [bento.me](https://bento.me/aurelienlouvel)
+(🍱) [Bento](https://bento.me/aurelienlouvel)
 
 (🎓) [GOBELINS Paris](https://github.com/gobelins)
 
