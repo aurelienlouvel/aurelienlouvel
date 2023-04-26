@@ -1,4 +1,4 @@
-## 👋 Salut, c'est Aurélien !
+## ✌️ Salut, c'est Aurélien !
 
 *(love coding & designing…)*
 
