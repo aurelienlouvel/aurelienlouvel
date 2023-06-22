@@ -2,7 +2,7 @@
 
 *(love coding & designing…)*
 
-Étudiant en développement interactif à GOBELINS Paris  
+Étudiant en design interactif à GOBELINS Paris  
 **Recherche actuellement une alternance pour septembre 2023**
 
 (💻) [aurelienlouvel.fr](http://aurelienlouvel.fr)
