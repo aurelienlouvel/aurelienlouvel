@@ -1,4 +1,4 @@
-## ✌️ Salut, c'est Oré !
+## ✌️ Salut, c'est (oré) !
 
 *(love coding & designing…)*
 
