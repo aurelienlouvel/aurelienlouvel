@@ -1,12 +1,10 @@
-## ✌️ Salut, c'est (oré) !
+## ✌️ Hey, c'est (oré) !
 
-*(love coding & designing…)*
+*(love code & design…)*
 
-Étudiant en design interactif à GOBELINS Paris  
+Product Designer (@payfit 📄🦄 / @gobelins 🎨🎓)
 
-(🌐) [aurelienlouvel.fr](http://aurelienlouvel.fr)
-
-(🍱) [Bento](https://bento.me/aurelienlouvel)
+(🌐) [work.ore.today](https://work.ore.today)
 
 (🎓) [GOBELINS Paris](https://github.com/gobelins)
 
