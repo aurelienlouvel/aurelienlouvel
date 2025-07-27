@@ -4,7 +4,7 @@
 
 Product Designer (@payfit 📄🦄 / @gobelins 🎨🎓)
 
-(🌐) [work.ore.today](https://work.ore.today)
+(🌐) [ore.today](https://ore.today)
 
 (🎓) [GOBELINS Paris](https://github.com/gobelins)
 
