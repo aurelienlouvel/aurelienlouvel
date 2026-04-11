@@ -1,4 +1,4 @@
-## ✌️ Hey, c'est (oré) !
+## ✌️ Hey, c'est oré ˖ ࣪⊹ !
 
 *(love code & design…)*
 
