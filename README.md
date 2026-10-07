@@ -1,11 +1,8 @@
-## ✌️ Hey, c'est oré ˖ ࣪⊹ !
+## ✌️ Hey, c'est oré ˖ ࣪⊹) !
 
 *(love code & design…)*
 
-Product Designer (formed @payfit 📄🦄 & @gobelins 🎨🎓)
+product designer (formed [@payfit](https://github.com/PayFit) 📄🦄 & [@gobelins](https://github.com/gobelins) 🎨🎓)
 
 (🌐) [aurelienlouvel.space](https://aurelienlouvel.space)
-
-(🎓) [GOBELINS Paris](https://github.com/gobelins)
-
 (📫) [hey@aurelienlouvel.space](mailto:hey@aurelienlouvel.space)
