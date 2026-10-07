@@ -2,10 +2,10 @@
 
 *(love code & design…)*
 
-Product Designer (@payfit 📄🦄 / @gobelins 🎨🎓)
+Product Designer (formed @payfit 📄🦄 & @gobelins 🎨🎓)
 
-(🌐) [ore.today](https://ore.today)
+(🌐) [aurelienlouvel.space](https://aurelienlouvel.space)
 
 (🎓) [GOBELINS Paris](https://github.com/gobelins)
 
-(📫) [louvel.aurelien.pro@gmail.com](mailto:louvel.aurelien.pro@gmail.com)
+(📫) [hey@aurelienlouvel.space](mailto:hey@aurelienlouvel.space)
